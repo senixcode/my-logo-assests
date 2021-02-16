@@ -1,10 +1,10 @@
-# my-logo-assests
-
+# About my logo
 <p align="center">
     <img src="./jpg/my-logo.jpg" alt="my-logo"
 	title="A cute kitten" width="150" height="150" /> 
  </p>
  
+My goal of this logo is to form a personal brand in which it is easy to identify me. I chose the `S` for many reasons but the main one is for my middle name sundar, I also gave it shape with these signs that are widely used in html `<>`, as for the colors was a taste for the colors I use most when programming and somehow I feel identified.
 ## Colors
 
 | HEX | RGB |  ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)|
